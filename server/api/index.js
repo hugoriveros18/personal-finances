@@ -9,19 +9,19 @@ const app = express()
 app.use(json())
 
 // CORS
-const whitelist = ['http://localhost:3000']
-const options = {
-  origin: (origin, callback) => {
-    if(whitelist.includes(origin) || !origin) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed'))
-    }
-  }
-}
-app.use(cors(options))
+// const whitelist = ['http://localhost:3000']
+// const options = {
+//   origin: (origin, callback) => {
+//     if(whitelist.includes(origin) || !origin) {
+//       callback(null, true);
+//     } else {
+//       callback(new Error('Not allowed'))
+//     }
+//   }
+// }
+// app.use(cors(options))
 // // CORS * ==> FOR ANY ORIGIN
-// app.use(cors())
+app.use(cors())
 
 // APP ROUTES
 routerApi(app)
