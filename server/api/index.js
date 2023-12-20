@@ -8,8 +8,20 @@ const app = express()
 // JSON MIDDLEWARE
 app.use(json())
 
-// CORS *
-app.use(cors())
+// CORS
+const whitelist = ['http://localhost:3000']
+const options = {
+  origin: (origin, callback) => {
+    if(whitelist.includes(origin) || !origin) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed'))
+    }
+  }
+}
+app.use(cors(options))
+// // CORS * ==> FOR ANY ORIGIN
+// app.use(cors())
 
 // APP ROUTES
 routerApi(app)
