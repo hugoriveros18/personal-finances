@@ -7,7 +7,7 @@
   ],
   "builds": [
     {
-      "src": "/api/index.cjs",
+      "src": "/api/index.mjs",
       "use": "@now/node"
     }
   ]
