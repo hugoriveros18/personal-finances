@@ -20,7 +20,7 @@ app.use(json())
 //   }
 // }
 // app.use(cors(options))
-// // CORS * ==> FOR ANY ORIGIN
+// CORS * ==> FOR ANY ORIGIN
 app.use(cors())
 
 // APP ROUTES
