@@ -17,5 +17,11 @@ router.patch('/:year/:month/:id', IncomeController.edit)
 //DELETE
 router.delete('/:year/:month/:id', IncomeController.delete)
 
+//TEST
+router.get('/test', (req, res) => {
+  res.status(200).json({ message: "Funciona Test"})
+})
+
+
 
 export default router
