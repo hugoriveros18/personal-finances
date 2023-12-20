@@ -1,6 +1,6 @@
 import express, { json } from "express"
 import cors from 'cors'
-import routerApi from "./routes/index.mjs"
+import routerApi from "./routes/index.js"
 
 // APP
 const app = express()
