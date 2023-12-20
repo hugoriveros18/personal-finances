@@ -12,17 +12,17 @@
   "author": "Hugo Felipe Riveros Fajardo",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.9.4",
-    "eslint": "^8.54.0",
-    "eslint-config-prettier": "^9.0.0",
-    "eslint-plugin-prettier": "^5.0.1",
-    "express": "^4.18.2",
-    "nodemon": "^3.0.1",
-    "prettier": "^3.1.0"
+    "@types/node": "20.9.4",
+    "eslint": "8.54.0",
+    "eslint-config-prettier": "9.0.0",
+    "eslint-plugin-prettier": "5.0.1",
+    "express": "4.18.2",
+    "nodemon": "3.0.1",
+    "prettier": "3.1.0"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "csv-parse": "^5.5.2",
-    "zod": "^3.22.4"
+    "cors": "2.8.5",
+    "csv-parse": "5.5.2",
+    "zod": "3.22.4"
   }
 }
