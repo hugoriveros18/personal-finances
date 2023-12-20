@@ -1,0 +1,2497 @@
+{
+  "2023": {
+    "year": "2023",
+    "totalIncome": 22741108,
+    "totalExpenses": 19587442,
+    "months": {
+      "1": {
+        "month": "January",
+        "code": "1",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "month": "February",
+        "code": "2",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        "month": "March",
+        "code": "3",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "4": {
+        "month": "April",
+        "code": "4",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "month": "May",
+        "code": "5",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "6": {
+        "month": "June",
+        "code": "6",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "7": {
+        "month": "July",
+        "code": "7",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "8": {
+        "month": "August",
+        "code": "8",
+        "expenses": {
+          "total": 0,
+          "categories": {
+            "Rent": {
+              "total": 0,
+              "subcategories": {
+                "Home rental": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Public services": {
+              "total": 0,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Private services": {
+              "total": 0,
+              "subcategories": {
+                "Internet": {
+                  "total": 0,
+                  "records": []
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 0,
+                  "records": []
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 0,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 0,
+                  "records": []
+                },
+                "Snacks": {
+                  "total": 0,
+                  "records": []
+                },
+                "Desserts": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Other": {
+              "total": 0,
+              "subcategories": {
+                "Groceries": {
+                  "total": 0,
+                  "records": []
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 0,
+                  "records": []
+                },
+                "Parking lot": {
+                  "total": 0,
+                  "records": []
+                },
+                "General expenses": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 0,
+          "categories": {
+            "Fixed income": {
+              "total": 0,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie salary": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Variable income": {
+              "total": 0,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 0,
+                  "records": []
+                },
+                "Angie voluntary tip": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "9": {
+        "month": "September",
+        "code": "9",
+        "expenses": {
+          "total": 5083480,
+          "categories": {
+            "Rent": {
+              "total": 1151080,
+              "subcategories": {
+                "Home rental": {
+                  "total": 1151080,
+                  "records": [
+                    {
+                      "id": "f00554df-66f7-4f83-b69d-b9c203505226",
+                      "description": "Pago mensual del arriendo",
+                      "value": 1151080,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Public services": {
+              "total": 237490,
+              "subcategories": {
+                "Water": {
+                  "total": 126290,
+                  "records": [
+                    {
+                      "id": "036c5292-c85b-4447-a336-ad78314f450e",
+                      "description": "Pago mensual de servicio de agua",
+                      "value": 126290,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Energy": {
+                  "total": 72200,
+                  "records": [
+                    {
+                      "id": "54864ece-adf3-4c78-af27-35108a4b9e90",
+                      "description": "Pago mensual de servicio de luz",
+                      "value": 72200,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gas": {
+                  "total": 39000,
+                  "records": [
+                    {
+                      "id": "474bd258-37b0-43a5-834a-39e924ed4979",
+                      "description": "Pago mensual de servicio de gas",
+                      "value": 39000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Private services": {
+              "total": 284850,
+              "subcategories": {
+                "Internet": {
+                  "total": 78800,
+                  "records": [
+                    {
+                      "id": "ffb66da1-78e3-4598-8b73-882985cec5ec",
+                      "description": "Pago mensual de servicio de internet",
+                      "value": 78800,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Phone plan": {
+                  "total": 36050,
+                  "records": [
+                    {
+                      "id": "fc9f3bde-e7a9-45bc-839a-93b8299604fc",
+                      "description": "Plan de datos mensual",
+                      "value": 36050,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gym": {
+                  "total": 170000,
+                  "records": [
+                    {
+                      "id": "d949bd88-a1e7-4f00-8b98-6b9565a22744",
+                      "description": "Plan mensual Angie",
+                      "value": 90000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    },
+                    {
+                      "id": "465f7a74-62a5-45c6-9ece-416d332b6518",
+                      "description": "Plan mensual Hugo",
+                      "value": 80000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 1370510,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 781600,
+                  "records": [
+                    {
+                      "id": "b0567de9-b084-4fa3-9aea-6064d775aa2c",
+                      "description": "Momentos de esparcimiento",
+                      "value": 781600,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Snacks": {
+                  "total": 500000,
+                  "records": [
+                    {
+                      "id": "b26e1f8c-7cd4-4ece-8318-dc82381bc5a1",
+                      "description": "Momentos de esparcimiento",
+                      "value": 500000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Desserts": {
+                  "total": 88910,
+                  "records": [
+                    {
+                      "id": "bcbcddda-97b9-422c-bb7b-7f023bb1c403",
+                      "description": "Momentos de esparcimiento",
+                      "value": 88910,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Other": {
+              "total": 2039550,
+              "subcategories": {
+                "Groceries": {
+                  "total": 1150050,
+                  "records": [
+                    {
+                      "id": "6cfd7092-75b0-46ae-8090-9f636ad00491",
+                      "description": "Mercado mensual",
+                      "value": 1150050,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Debts": {
+                  "total": 700000,
+                  "records": [
+                    {
+                      "id": "d0a3a811-f24f-4cad-a3c0-c5332271f17e",
+                      "description": "Pago de deuda de tarjeta de credito",
+                      "value": 700000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gasoline": {
+                  "total": 72000,
+                  "records": [
+                    {
+                      "id": "70d5f18a-03fa-46f3-8ad5-f392d740d226",
+                      "description": "Gasolina moto del mes",
+                      "value": 72000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Parking lot": {
+                  "total": 60000,
+                  "records": [
+                    {
+                      "id": "b73eee87-15b8-4e6c-937a-74f2b029e152",
+                      "description": "Parqueadero del mes",
+                      "value": 60000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "General expenses": {
+                  "total": 57500,
+                  "records": [
+                    {
+                      "id": "8b4b6857-59d5-490e-ac4f-3019f8b1e9bc",
+                      "description": "Consolidado de gastos general del mes",
+                      "value": 57500,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 5647000,
+          "categories": {
+            "Fixed income": {
+              "total": 4004000,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 2312000,
+                  "records": [
+                    {
+                      "id": "d21d6c9a-b7d9-4b16-bdc4-930ec5050d18",
+                      "description": "September Hugo total salary",
+                      "value": 2312000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie salary": {
+                  "total": 1692000,
+                  "records": [
+                    {
+                      "id": "ae6ad82c-fe7a-4be1-93ec-0423d35cbd04",
+                      "description": "September Angie total salary",
+                      "value": 1692000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Variable income": {
+              "total": 1643000,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 884000,
+                  "records": [
+                    {
+                      "id": "90b7aed0-732e-4f3a-b641-430b5d047ded",
+                      "description": "September Angie total legal tip",
+                      "value": 884000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie voluntary tip": {
+                  "total": 759000,
+                  "records": [
+                    {
+                      "id": "ae2e65b9-67b4-4760-b652-d277d42cb6be",
+                      "description": "September Angie total voluntary tip",
+                      "value": 759000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "10": {
+        "month": "October",
+        "code": "10",
+        "expenses": {
+          "total": 5936532,
+          "categories": {
+            "Rent": {
+              "total": 1151080,
+              "subcategories": {
+                "Home rental": {
+                  "total": 1151080,
+                  "records": [
+                    {
+                      "id": "fff290dc-7b6f-4950-9f51-b7580d426f84",
+                      "description": "Pago mensual del arriendo",
+                      "value": 1151080,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Public services": {
+              "total": 98700,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": [
+                    {
+                      "id": "25515259-25f5-4dd0-b4ca-fcf8a94f108d",
+                      "description": "Pago mensual de servicio de agua",
+                      "value": 0,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Energy": {
+                  "total": 68800,
+                  "records": [
+                    {
+                      "id": "38e5dfb5-88b2-432d-839a-1b4e685bd45f",
+                      "description": "Pago mensual de servicio de luz",
+                      "value": 68800,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gas": {
+                  "total": 29900,
+                  "records": [
+                    {
+                      "id": "5f53c862-cfc0-403e-9287-ad61555f7514",
+                      "description": "Pago mensual de servicio de gas",
+                      "value": 29900,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Private services": {
+              "total": 331020,
+              "subcategories": {
+                "Internet": {
+                  "total": 84320,
+                  "records": [
+                    {
+                      "id": "61e99280-d911-4272-8dc9-12713b566f61",
+                      "description": "Pago mensual de servicio de internet",
+                      "value": 84320,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Phone plan": {
+                  "total": 76700,
+                  "records": [
+                    {
+                      "id": "5e12d7ea-3d8e-42b4-97b8-cf61ec138625",
+                      "description": "Plan de datos mensual",
+                      "value": 76700,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gym": {
+                  "total": 170000,
+                  "records": [
+                    {
+                      "id": "98b48792-e588-41a0-881a-7253484342ab",
+                      "description": "Plan mensual Angie",
+                      "value": 90000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    },
+                    {
+                      "id": "84009cbc-6439-437d-b974-a8296a4764b7",
+                      "description": "Plan mensual Hugo",
+                      "value": 80000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 1418830,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 782733,
+                  "records": [
+                    {
+                      "id": "c31eebf5-0429-4f30-9095-5233c3d1c067",
+                      "description": "Momentos de esparcimiento",
+                      "value": 782733,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Snacks": {
+                  "total": 400000,
+                  "records": [
+                    {
+                      "id": "c89acfe7-f9fe-4f36-9f32-63238625a016",
+                      "description": "Momentos de esparcimiento",
+                      "value": 400000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Desserts": {
+                  "total": 236097,
+                  "records": [
+                    {
+                      "id": "86ad2bb7-0746-4643-b0c9-1da6edc8867c",
+                      "description": "Momentos de esparcimiento",
+                      "value": 236097,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Other": {
+              "total": 2936902,
+              "subcategories": {
+                "Groceries": {
+                  "total": 993460,
+                  "records": [
+                    {
+                      "id": "536ddee0-628e-4662-90af-06e61150cf4d",
+                      "description": "Mercado mensual",
+                      "value": 993460,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Debts": {
+                  "total": 828922,
+                  "records": [
+                    {
+                      "id": "11d5584f-a422-4e55-90ac-e42c8c9926b3",
+                      "description": "Pago de deuda de tarjeta de credito",
+                      "value": 828922,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gasoline": {
+                  "total": 42000,
+                  "records": [
+                    {
+                      "id": "23cbed83-8d66-403e-9866-7e0351a370d1",
+                      "description": "Gasolina moto del mes",
+                      "value": 42000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Parking lot": {
+                  "total": 60000,
+                  "records": [
+                    {
+                      "id": "402b8d3e-d1c0-4243-a2e0-dba3b96ad2a0",
+                      "description": "Parqueadero del mes",
+                      "value": 60000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "General expenses": {
+                  "total": 1012520,
+                  "records": [
+                    {
+                      "id": "bdc732f7-d0c2-4f1c-a20f-cc60889d3a6b",
+                      "description": "Consolidado de gastos general del mes",
+                      "value": 591520,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    },
+                    {
+                      "id": "4e7174de-f411-43c8-9913-a5c783dc8e43",
+                      "description": "Diferencia entre presupuestado y real",
+                      "value": 421000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 5482976,
+          "categories": {
+            "Fixed income": {
+              "total": 4965976,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 2312000,
+                  "records": [
+                    {
+                      "id": "bafb60ba-1e4d-412e-ac20-dcfcfe722ab5",
+                      "description": "October Hugo total salary",
+                      "value": 2312000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie salary": {
+                  "total": 2653976,
+                  "records": [
+                    {
+                      "id": "49c9de76-3922-497c-8b2c-7147c812a90c",
+                      "description": "October Angie total salary",
+                      "value": 2653976,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Variable income": {
+              "total": 517000,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 347000,
+                  "records": [
+                    {
+                      "id": "b6d366f7-eb67-4605-80ca-7dbe7682ddab",
+                      "description": "October Angie total legal tip",
+                      "value": 347000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie voluntary tip": {
+                  "total": 170000,
+                  "records": [
+                    {
+                      "id": "56a15dcf-42b0-45e6-b0d2-25d098bc0c80",
+                      "description": "October Angie total voluntary tip",
+                      "value": 170000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "11": {
+        "month": "November",
+        "code": "11",
+        "expenses": {
+          "total": 4034540,
+          "categories": {
+            "Rent": {
+              "total": 1151080,
+              "subcategories": {
+                "Home rental": {
+                  "total": 1151080,
+                  "records": [
+                    {
+                      "id": "ad7eb025-8f0a-4e75-9623-a0d705f7c08d",
+                      "description": "Pago mensual del arriendo",
+                      "value": 1151080,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Public services": {
+              "total": 241410,
+              "subcategories": {
+                "Water": {
+                  "total": 119200,
+                  "records": [
+                    {
+                      "id": "e0aeb722-cc40-4e81-90f7-423649c5a771",
+                      "description": "Pago mensual de servicio de agua",
+                      "value": 119200,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Energy": {
+                  "total": 81110,
+                  "records": [
+                    {
+                      "id": "2389e934-322f-4aa4-a272-130bd6ccbdec",
+                      "description": "Pago mensual de servicio de luz",
+                      "value": 81110,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Gas": {
+                  "total": 41100,
+                  "records": [
+                    {
+                      "id": "c95c138d-c58d-4a2a-bd12-a2b4017a80be",
+                      "description": "Pago mensual de servicio de gas",
+                      "value": 41100,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Private services": {
+              "total": 254400,
+              "subcategories": {
+                "Internet": {
+                  "total": 84400,
+                  "records": [
+                    {
+                      "id": "76559006-5c49-46fa-bc2f-08f52f289b6c",
+                      "description": "Pago mensual de servicio de internet",
+                      "value": 84400,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Phone plan": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gym": {
+                  "total": 170000,
+                  "records": [
+                    {
+                      "id": "b5b353c4-125c-4e73-9744-f1685df88c86",
+                      "description": "Plan mensual Angie",
+                      "value": 90000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    },
+                    {
+                      "id": "708e33c5-340d-43e1-9c3b-4565159e18a9",
+                      "description": "Plan mensual Hugo",
+                      "value": 80000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Xbox game pass": {
+                  "total": 0,
+                  "records": []
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 771450,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 497000,
+                  "records": [
+                    {
+                      "id": "ea552968-14c9-4343-b816-b5e4939a77a7",
+                      "description": "Momentos de esparcimiento",
+                      "value": 497000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Snacks": {
+                  "total": 200000,
+                  "records": [
+                    {
+                      "id": "4c2da54c-5c0b-45b6-9298-4c0a14525097",
+                      "description": "Momentos de esparcimiento",
+                      "value": 200000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Desserts": {
+                  "total": 74450,
+                  "records": [
+                    {
+                      "id": "28cb235b-f36b-4189-a2cd-795526deb58b",
+                      "description": "Momentos de esparcimiento",
+                      "value": 74450,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Other": {
+              "total": 1616200,
+              "subcategories": {
+                "Groceries": {
+                  "total": 628600,
+                  "records": [
+                    {
+                      "id": "17847f7e-882f-4220-b786-2a7a2d4f6062",
+                      "description": "Mercado mensual",
+                      "value": 628600,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 35000,
+                  "records": [
+                    {
+                      "id": "7f6693fb-820b-449f-b8c3-a2d7d7ebdc49",
+                      "description": "Gasolina moto del mes",
+                      "value": 35000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Parking lot": {
+                  "total": 60000,
+                  "records": [
+                    {
+                      "id": "61016bae-a182-4c7e-b625-89cc0ccd072c",
+                      "description": "Parqueadero del mes",
+                      "value": 60000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "General expenses": {
+                  "total": 892600,
+                  "records": [
+                    {
+                      "id": "a978c528-39a4-4c39-891f-9aa39e10161e",
+                      "description": "Consolidado de gastos general del mes",
+                      "value": 892600,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 4394132,
+          "categories": {
+            "Fixed income": {
+              "total": 3474132,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 2312000,
+                  "records": [
+                    {
+                      "id": "547c134d-db80-4f64-bef0-caa154752f30",
+                      "description": "November Hugo total salary",
+                      "value": 2312000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie salary": {
+                  "total": 1162132,
+                  "records": [
+                    {
+                      "id": "f744ba8f-cab3-4073-a03d-57b21078a995",
+                      "description": "November Angie total salary",
+                      "value": 1162132,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Variable income": {
+              "total": 920000,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 158000,
+                  "records": [
+                    {
+                      "id": "6c0a0e92-e364-4884-8f7b-986c61b878ca",
+                      "description": "November Angie total legal tip",
+                      "value": 158000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                },
+                "Angie voluntary tip": {
+                  "total": 762000,
+                  "records": [
+                    {
+                      "id": "8a2f263d-4c14-4062-9ccb-e1d4fe7a1b48",
+                      "description": "November Angie total voluntary tip",
+                      "value": 762000,
+                      "createdAt": "12/11/2023",
+                      "lastModifiedDate": "12/11/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "12": {
+        "month": "December",
+        "code": "12",
+        "expenses": {
+          "total": 4532890,
+          "categories": {
+            "Rent": {
+              "total": 1151080,
+              "subcategories": {
+                "Home rental": {
+                  "total": 1151080,
+                  "records": [
+                    {
+                      "id": "428ced45-a6be-4b48-9b0e-ed14ceb31bf0",
+                      "description": "Arriendo mensual Rentabien",
+                      "value": 1151080,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Public services": {
+              "total": 20330,
+              "subcategories": {
+                "Water": {
+                  "total": 0,
+                  "records": []
+                },
+                "Energy": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gas": {
+                  "total": 20330,
+                  "records": [
+                    {
+                      "id": "065df18f-8b33-4f78-97e0-9b65d4a0704a",
+                      "description": "Servicio de Gas Vanti S.A.",
+                      "value": 20330,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Private services": {
+              "total": 326700,
+              "subcategories": {
+                "Internet": {
+                  "total": 84400,
+                  "records": [
+                    {
+                      "id": "b221bb44-6227-4683-bd45-280b41f89b11",
+                      "description": "Servicio internet Movistar",
+                      "value": 84400,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                },
+                "Phone plan": {
+                  "total": 38400,
+                  "records": [
+                    {
+                      "id": "64b7c298-8c56-44f5-934d-7c23bcb7b701",
+                      "description": "Plan de datos Claro",
+                      "value": 38400,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                },
+                "Gym": {
+                  "total": 170000,
+                  "records": [
+                    {
+                      "id": "78990217-6ee7-4b76-a6e1-2aba08ea8cbb",
+                      "description": "Plan mensual smartfit Angie",
+                      "value": 90000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "43d99320-d7ff-476a-974d-becaaa2179a9",
+                      "description": "Plan mensual smartfit Hugo",
+                      "value": 80000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                },
+                "Xbox game pass": {
+                  "total": 33900,
+                  "records": [
+                    {
+                      "id": "2ad15564-9bbc-41fd-b965-ddee9b821696",
+                      "description": "Suscripcion Game Pass",
+                      "value": 33900,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Entertainment": {
+              "total": 1075600,
+              "subcategories": {
+                "Restaurants": {
+                  "total": 584850,
+                  "records": [
+                    {
+                      "id": "35884634-d831-441c-bf9a-d052f3c7ebbc",
+                      "description": "Almuerzo Angie",
+                      "value": 20000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "f3139aff-cac9-42a8-9068-c69f5b7dd34e",
+                      "description": "Hamburgues Hugo viernes",
+                      "value": 26000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "9045d3f5-4541-4885-958a-fbf76a4d9c48",
+                      "description": "Hamburgues Corral Hugo",
+                      "value": 32000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "52585a31-2b61-41b5-b74c-11a56c8a3ee9",
+                      "description": "Almuerzo de mes 6 de matrimonio",
+                      "value": 176850,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "4bc11dcd-4c51-4197-892f-8062ed2c2467",
+                      "description": "Hamburguesa sabado",
+                      "value": 36200,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "6260d87d-f406-4951-ade0-958e82986ce2",
+                      "description": "Hamburguesa Mr. Beast",
+                      "value": 42100,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "7457a87a-9a7e-4fb9-808f-71559bf920ac",
+                      "description": "Almuerzo Paisitas",
+                      "value": 19000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "8a0c7b29-639c-4ea5-a0e7-4a1c31188a3d",
+                      "description": "Mcdonalds viernes con Jairo",
+                      "value": 27200,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "d4545a55-ba21-4749-bafc-f8c3641a9747",
+                      "description": "Hamburguesa corral Angie",
+                      "value": 65000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "948ac1f4-7a27-47dd-8afb-8a5122363029",
+                      "description": "Almuerzo en la Calera",
+                      "value": 100500,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "fea54030-b6e6-4f62-b739-4cd10ea9d717",
+                      "description": "Cena en Crepes & Waffles",
+                      "value": 40000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                },
+                "Snacks": {
+                  "total": 430750,
+                  "records": [
+                    {
+                      "id": "6811faff-db8a-47b2-8583-3d90b1779651",
+                      "description": "Snacks viernes",
+                      "value": 23000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "db9dfb59-f327-4256-881d-cc129392a89b",
+                      "description": "Snacks sabado",
+                      "value": 25000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "6c32437c-fd96-4d10-9440-b2e778bce50e",
+                      "description": "Buñuelos desayuno",
+                      "value": 20000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "0435352f-ad7c-4b65-b50e-1d56d4749efe",
+                      "description": "Cerveza reunion con Harold y Melissa",
+                      "value": 26000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "49135ee7-f127-400a-a0ab-a17d7debe11c",
+                      "description": "Salida a cine - Wonka",
+                      "value": 50500,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "ad5122e5-61fa-4656-aba3-ab39ee6d90fe",
+                      "description": "Vino para almuerzo",
+                      "value": 35000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "87353b7e-b58b-4afe-8611-95f521960d55",
+                      "description": "Snacks sabado",
+                      "value": 28000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "c4245d3f-2c4e-4dd5-8771-4793c9a54db4",
+                      "description": "Buñuelos desayunos",
+                      "value": 10000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "31fc69a6-0536-4d76-b95b-ed3411321cb6",
+                      "description": "Recreacion general",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "11b517c3-6a56-4d65-9da7-d3daab07ce97",
+                      "description": "Salida con Jairo viernes",
+                      "value": 20000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "92130721-6f08-4dc1-9f29-05acc9d45d29",
+                      "description": "24 cervezas de novena en casa",
+                      "value": 47750,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "a992451a-b4b2-4f32-8f19-676eaef43c06",
+                      "description": "Buñuelos novena en casa",
+                      "value": 15000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "8c562144-2161-4ce2-a505-09116bc4fb67",
+                      "description": "Ingredientes sangria novena en casa",
+                      "value": 57500,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "adeaf35c-1053-4cdd-ac02-3230c7d13dae",
+                      "description": "Caja de vino para novena en casa",
+                      "value": 23000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                },
+                "Desserts": {
+                  "total": 60000,
+                  "records": [
+                    {
+                      "id": "b67f0a7c-12b4-4a1e-9d39-f5fc79cc4cb4",
+                      "description": "Postre reunion con Harold y Melissa",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "2f5353dd-1633-44c9-8134-f58ef576c1c7",
+                      "description": "Postre Angie",
+                      "value": 10000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Other": {
+              "total": 1959180,
+              "subcategories": {
+                "Groceries": {
+                  "total": 511110,
+                  "records": [
+                    {
+                      "id": "a8052e60-34a6-4076-b55f-fadc0635d575",
+                      "description": "Compras D1",
+                      "value": 143810,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "7230006f-bf50-4476-8756-8cd450c47a29",
+                      "description": "Fruver general",
+                      "value": 81450,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "c03b4749-5259-4a99-b39f-4f6a64523746",
+                      "description": "Fruver general",
+                      "value": 136700,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "5ca9a2c1-d52f-468e-8334-c2894bd3da61",
+                      "description": "Pan y lacteos",
+                      "value": 18000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "51937f0d-2524-475c-9239-1ced9c0c8b11",
+                      "description": "Compra de huevos",
+                      "value": 78800,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "98892134-6460-4d87-9647-1f688b623124",
+                      "description": "Colombinas de ala",
+                      "value": 19350,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "1e225738-8467-43e3-9e24-bffdca70c15c",
+                      "description": "Papel higienico y cloro",
+                      "value": 33000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                },
+                "Debts": {
+                  "total": 0,
+                  "records": []
+                },
+                "Gasoline": {
+                  "total": 16000,
+                  "records": [
+                    {
+                      "id": "7288b37b-0d31-4e82-b645-0808704ca180",
+                      "description": "Tanqueo de la moto",
+                      "value": 16000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                },
+                "Parking lot": {
+                  "total": 60000,
+                  "records": [
+                    {
+                      "id": "c66044cc-5c16-488a-98da-fadf67054f65",
+                      "description": "Mensualidad de parqueadero",
+                      "value": 60000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                },
+                "General expenses": {
+                  "total": 1372070,
+                  "records": [
+                    {
+                      "id": "c44fec63-34b4-4d1f-a716-b9b7cda62545",
+                      "description": "Compra de plancha de hierro Victoria",
+                      "value": 125990,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "9f27554f-11cc-4d1e-9335-883636712605",
+                      "description": "Regalo apadrinado Angie",
+                      "value": 49000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "2cd3c46c-7352-4d64-bc75-afd91ad2b819",
+                      "description": "Vajilla del hogar - Homecenter",
+                      "value": 249900,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "4b4a2c3b-4828-4a19-9961-1238633a37b3",
+                      "description": "Medicamentos Angie",
+                      "value": 24000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "41dc5418-9754-46b3-a5d0-7ee8b946dcd9",
+                      "description": "Protector de pantalla celular Hugo",
+                      "value": 25000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "bf61b86b-4ba8-48fd-8cff-1e27c60574a4",
+                      "description": "Medicinas Angie",
+                      "value": 40000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "13fdfb97-9814-44ed-8fde-05f4bc52d730",
+                      "description": "Ahorro Lulo Bank",
+                      "value": 650000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "e15992e9-eb86-4bf8-971c-92a6aef406e3",
+                      "description": "Medicinas Angie",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "9d6f1a6b-203b-4397-b25c-5b7f88d169fe",
+                      "description": "Integral Solutions Davivienda",
+                      "value": 28180,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "6ffcd971-d98d-411e-86e8-74cdd7e1023c",
+                      "description": "Ropa en lavanderia",
+                      "value": 36000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "017e1505-4c6a-46bd-9059-dde01526f37a",
+                      "description": "Ropa en lavanderia",
+                      "value": 54000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    },
+                    {
+                      "id": "42f0de83-da3e-4ac5-9f81-8be6b8188652",
+                      "description": "Aretes tia Sandra",
+                      "value": 40000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "income": {
+          "total": 7217000,
+          "categories": {
+            "Fixed income": {
+              "total": 5537000,
+              "subcategories": {
+                "Hugo salary": {
+                  "total": 3487000,
+                  "records": [
+                    {
+                      "id": "4520177b-d18c-4cba-ba98-17079ac06b2e",
+                      "description": "Salario mensual ITGlobers",
+                      "value": 2312000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "b65c7ce5-ea4e-4be4-b798-5e1c96768ecf",
+                      "description": "Prima de diciembre ITGlobers",
+                      "value": 1175000,
+                      "createdAt": "12/20/2023",
+                      "lastModifiedDate": "12/20/2023"
+                    }
+                  ]
+                },
+                "Angie salary": {
+                  "total": 2050000,
+                  "records": [
+                    {
+                      "id": "e33473a0-062d-4011-b44d-3884b905580b",
+                      "description": "Salario Mensual 93 Luxury Suites",
+                      "value": 2050000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                }
+              }
+            },
+            "Variable income": {
+              "total": 1680000,
+              "subcategories": {
+                "Angie legal tip": {
+                  "total": 620000,
+                  "records": [
+                    {
+                      "id": "1703f74d-4476-49c8-ba43-7f9697f6d223",
+                      "description": "Propina mensual 93 Luxury Suites",
+                      "value": 620000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                },
+                "Angie voluntary tip": {
+                  "total": 1060000,
+                  "records": [
+                    {
+                      "id": "30454c7b-38bf-45a1-995e-b8e8d9156aaa",
+                      "description": "Propina voluntaria por servicio",
+                      "value": 100000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "d21e44d1-5668-488d-be24-f22578a47d9c",
+                      "description": "Propina voluntaria por servicio",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "d8304aef-f22f-4c59-b4c9-d9a007b1fe85",
+                      "description": "Propina voluntaria por servicio",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "88aa2b33-4a83-4fa4-9bf4-ba62195b9f52",
+                      "description": "Propina voluntaria por servicio",
+                      "value": 160000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "87a320bd-416e-4e24-bbf9-045a90ca5cf4",
+                      "description": "Propina voluntaria por servicio",
+                      "value": 50000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    },
+                    {
+                      "id": "be917d5e-b7d7-4762-acc4-a5e3bdea64ec",
+                      "description": "Cambio de dolares acumulados de repique",
+                      "value": 650000,
+                      "createdAt": "12/16/2023",
+                      "lastModifiedDate": "12/16/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

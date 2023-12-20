@@ -1,0 +1,60 @@
+﻿type,category,subcategory,description,value,year,month
+income,Fixed income,Hugo salary,September Hugo total salary,2312000,2023,9
+income,Fixed income,Angie salary,September Angie total salary,1692000,2023,9
+income,Variable income,Angie legal tip,September Angie total legal tip,884000,2023,9
+income,Variable income,Angie voluntary tip,September Angie total voluntary tip,759000,2023,9
+income,Fixed income,Hugo salary,October Hugo total salary,2312000,2023,10
+income,Fixed income,Angie salary,October Angie total salary,2653976,2023,10
+income,Variable income,Angie legal tip,October Angie total legal tip,347000,2023,10
+income,Variable income,Angie voluntary tip,October Angie total voluntary tip,170000,2023,10
+income,Fixed income,Hugo salary,November Hugo total salary,2312000,2023,11
+income,Fixed income,Angie salary,November Angie total salary,1162132,2023,11
+income,Variable income,Angie legal tip,November Angie total legal tip,158000,2023,11
+income,Variable income,Angie voluntary tip,November Angie total voluntary tip,762000,2023,11
+expense,Rent,Home rental,Pago mensual del arriendo,1151080,2023,9
+expense,Public services,Water,Pago mensual de servicio de agua,126290,2023,9
+expense,Public services,Energy,Pago mensual de servicio de luz,72200,2023,9
+expense,Public services,Gas,Pago mensual de servicio de gas,39000,2023,9
+expense,Private services,Internet,Pago mensual de servicio de internet,78800,2023,9
+expense,Other,Groceries,Mercado mensual,1150050,2023,9
+expense,Entertainment,Restaurants,Momentos de esparcimiento,781600,2023,9
+expense,Entertainment,Snacks,Momentos de esparcimiento,500000,2023,9
+expense,Entertainment,Desserts,Momentos de esparcimiento,88910,2023,9
+expense,Private services,Phone plan,Plan de datos mensual,36050,2023,9
+expense,Private services,Gym,Plan mensual Angie,90000,2023,9
+expense,Private services,Gym,Plan mensual Hugo,80000,2023,9
+expense,Other,General expenses,Consolidado de gastos general del mes,57500,2023,9
+expense,Other,Gasoline,Gasolina moto del mes,72000,2023,9
+expense,Other,Parking lot,Parqueadero del mes,60000,2023,9
+expense,Other,Debts,Pago de deuda de tarjeta de credito,700000,2023,9
+expense,Rent,Home rental,Pago mensual del arriendo,1151080,2023,10
+expense,Public services,Water,Pago mensual de servicio de agua,0,2023,10
+expense,Public services,Energy,Pago mensual de servicio de luz,68800,2023,10
+expense,Public services,Gas,Pago mensual de servicio de gas,29900,2023,10
+expense,Private services,Internet,Pago mensual de servicio de internet,84320,2023,10
+expense,Other,Groceries,Mercado mensual,993460,2023,10
+expense,Entertainment,Restaurants,Momentos de esparcimiento,782733,2023,10
+expense,Entertainment,Snacks,Momentos de esparcimiento,400000,2023,10
+expense,Entertainment,Desserts,Momentos de esparcimiento,236097,2023,10
+expense,Private services,Phone plan,Plan de datos mensual,76700,2023,10
+expense,Private services,Gym,Plan mensual Angie,90000,2023,10
+expense,Private services,Gym,Plan mensual Hugo,80000,2023,10
+expense,Other,General expenses,Consolidado de gastos general del mes,591520,2023,10
+expense,Other,Debts,Pago de deuda de tarjeta de credito,828922,2023,10
+expense,Other,Gasoline,Gasolina moto del mes,42000,2023,10
+expense,Other,Parking lot,Parqueadero del mes,60000,2023,10
+expense,Other,General expenses,Diferencia entre presupuestado y real,421000,2023,10
+expense,Rent,Home rental,Pago mensual del arriendo,1151080,2023,11
+expense,Public services,Water,Pago mensual de servicio de agua,119200,2023,11
+expense,Public services,Energy,Pago mensual de servicio de luz,81110,2023,11
+expense,Public services,Gas,Pago mensual de servicio de gas,41100,2023,11
+expense,Private services,Internet,Pago mensual de servicio de internet,84400,2023,11
+expense,Other,Groceries,Mercado mensual,628600,2023,11
+expense,Entertainment,Restaurants,Momentos de esparcimiento,497000,2023,11
+expense,Entertainment,Snacks,Momentos de esparcimiento,200000,2023,11
+expense,Entertainment,Desserts,Momentos de esparcimiento,74450,2023,11
+expense,Private services,Gym,Plan mensual Angie,90000,2023,11
+expense,Private services,Gym,Plan mensual Hugo,80000,2023,11
+expense,Other,General expenses,Consolidado de gastos general del mes,892600,2023,11
+expense,Other,Gasoline,Gasolina moto del mes,35000,2023,11
+expense,Other,Parking lot,Parqueadero del mes,60000,2023,11

@@ -1,0 +1,24 @@
+{
+  "name": "finanzas-personales",
+  "version": "1.0.0",
+  "description": "Aplicacion de finanzas personales",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "dev": "concurrently \" cd server && npm run dev \" \"cd client && npm run dev \"",
+    "devturbo": "concurrently \" cd server && npm run dev \" \"cd client && npm run devturbo \"",
+    "start": "concurrently \" cd server && npm run start \" \"cd client && npm run start \""
+  },
+  "keywords": [
+    "finanzas",
+    "personales",
+    "ingresos",
+    "egresos"
+  ],
+  "author": "Hugo Felipe Riveros Fajardo",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
